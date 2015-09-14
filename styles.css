@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background:#EAEAEA;
+	width:100%;
+	margin:0;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.container {
+	background:#fff;
+	border: thin solid #727272;
+	-webkit-box-shadow:0px 5px 10px #1c1c1c;
+   -moz-box-shadow:0px 5px 10px #1c1c1c;
+    box-shadow:0px 5px 10px #1c1c1c;
+}
+
+.site-title {
+	background:#000;
+	color:#fff;
+	padding:1em;
+	margin:auto;
+}
